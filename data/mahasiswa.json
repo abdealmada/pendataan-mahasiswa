@@ -1,0 +1,16 @@
+[
+    {
+        "nim": "18240021",
+        "nama": "Dimas Wahyu Nugroho",
+        "email": "dimas.nugroho@ars.ac.id",
+        "prodi": "Bisnis Digital",
+        "semester": 1,
+        "jenis_kelamin": "Laki-laki",
+        "hobi": [
+            "Kewirausahaan Digital",
+            "Public Speaking"
+        ],
+        "alamat": "Jl. Dipatiukur No. 88, Coblong, Kota Bandung, Jawa Barat",
+        "updated_at": "2026-11-26 11:00:00"
+    }
+]
